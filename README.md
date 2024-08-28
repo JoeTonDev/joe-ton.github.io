@@ -1,2 +1,1 @@
-# joe-ton.github.io
-My power bi portfolio 
+My name is Joe, I am a data analyst with experience using various data tools to clean, analyze, and visualize data to empower decision-making and drive changes. I am proficient in SQL, Excel, Power BI, and Python, and I have a good understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, statistical analysis, chart design, dashboard building, process documenting, and data storytelling.
